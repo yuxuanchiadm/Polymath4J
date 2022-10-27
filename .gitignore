@@ -1,0 +1,13 @@
+# Compiled plugin files
+target/*
+
+# IDE files
+.idea/*
+.vscode/*
+.settings/*
+*.iml
+.classpath
+.project
+.factorypath
+
+*.plantuml 
